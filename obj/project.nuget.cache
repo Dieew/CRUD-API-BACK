@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rm3rltqgnME=",
+  "dgSpecHash": "JyKpZ1cIMNI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Workstation Virtus\\Documents\\SENAI-LOGICA-PROGRAMACAO\\Atividade CRUD and Insomnia\\ExoContext\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Workstation Virtus\\Documents\\SENAI-LOGICA-PROGRAMACAO\\Atividade CRUD usuarios\\Atividade CRUD USUARIOS\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Workstation Virtus\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Workstation Virtus\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
